@@ -1,3 +1,7 @@
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Zonder154/go-pocket-sdk)
+![GitHub top language](https://img.shields.io/github/languages/top/Zonder154/go-pocket-sdk)
+![Lines of code](https://img.shields.io/tokei/lines/github/Zonder154/go-pocket-sdk)
+
 # GetPocket API Golang SDK
 ## https://getpocket.com/developer/
 
